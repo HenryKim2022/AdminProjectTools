@@ -1,0 +1,22 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\AdminProjectTools\bin\Debug\AdminProjectTools.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\AdminProjectTools\obj\Debug\AdminProjectTools.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\AdminProjectTools\obj\Debug\AdminProjectTools.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\AdminProjectTools\obj\Debug\AdminProjectTools.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\AdminProjectTools\obj\Debug\AdminProjectTools.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\AdminProjectTools\obj\Debug\AdminProjectTools.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\AdminProjectTools\bin\Debug\AdminProjectTools.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\AdminProjectTools\bin\Debug\AdminProjectTools.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\AdminProjectTools\bin\Debug\AdminProjectTools.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\AdminProjectTools\obj\Debug\AdminProjectTools.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\AdminProjectTools\obj\Debug\AdminProjectTools.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AdminProjectTools\AdminProjectTools\bin\Debug\AdminProjectTools.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AdminProjectTools\AdminProjectTools\obj\Debug\AdminProjectTools.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AdminProjectTools\AdminProjectTools\obj\Debug\AdminProjectTools.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AdminProjectTools\AdminProjectTools\obj\Debug\AdminProjectTools.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AdminProjectTools\AdminProjectTools\bin\Debug\AdminProjectTools.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AdminProjectTools\AdminProjectTools\bin\Debug\AdminProjectTools.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AdminProjectTools\AdminProjectTools\bin\Debug\AdminProjectTools.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AdminProjectTools\AdminProjectTools\obj\Debug\AdminProjectTools.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AdminProjectTools\AdminProjectTools\obj\Debug\AdminProjectTools.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AdminProjectTools\AdminProjectTools\obj\Debug\AdminProjectTools.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AdminProjectTools\AdminProjectTools\obj\Debug\AdminProjectTools.vbproj.GenerateResource.Cache
